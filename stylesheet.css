@@ -1,7 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  font-family: "Red Hat Display";
 }
 
 .order-window {
@@ -15,4 +20,18 @@
   box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
   top: 15%;
   left: 38%;
+}
+
+.order-img {
+  width: 100%;
+  height: auto;
+  border-radius: 20px 20px 0px 0px;
+}
+
+.order-heading {
+  font-weight: 900;
+}
+
+.user-cart h1 {
+  font-size: 15px;
 }/*# sourceMappingURL=stylesheet.css.map */
