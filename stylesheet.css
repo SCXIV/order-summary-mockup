@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.order-window {
+  display: grid;
+  position: absolute;
+  justify-items: center;
+  background-color: white;
+  width: 25vw;
+  height: 75vh;
+  border-radius: 25px;
+  box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
+  top: 15%;
+  left: 38%;
+}/*# sourceMappingURL=stylesheet.css.map */
